@@ -1,2 +1,18 @@
+# Virtual Environment
 .venv/
+.env
+
+# IDE
 .idea/
+.vscode/
+
+
+# Python
+__pycache__/
+
+
+# Firebase
+*firebase*.json
+firebase-debug.log
+firebase-debug.*.log
+
